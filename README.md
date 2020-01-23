@@ -1,4 +1,4 @@
-# Inventory records of cultural heritage of the French region Occitanie
+# French museums
 
 Build an interactive map displaying all French museums based on open data provided by [data gouv website](https://www.data.gouv.fr/fr/datasets/musees-de-france-1/)
 
