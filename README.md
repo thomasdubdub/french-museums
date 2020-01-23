@@ -21,7 +21,7 @@ You can use it to generate the a marker cluster map in HTML, as illustrated by t
 
 ## Built With
 
-* [pandas](https://pandas.pydata.org/)) - Python Data Analysis Library 
+* [pandas](https://pandas.pydata.org/) - Python Data Analysis Library 
 * [ipyleaflet](https://ipyleaflet.readthedocs.io/en/latest/) - Interactive maps in the Jupyter notebook
 
 
